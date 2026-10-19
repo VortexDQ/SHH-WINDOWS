@@ -23,8 +23,6 @@ Set-Service -Name sshd -StartupType Automatic
 
 This starts SSH now and makes it start automatically whenever Windows boots. The installer normally creates the required firewall rule for port 22.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://learn.microsoft.com\&sz=32)
-
 Microsoft Learn
 
 
