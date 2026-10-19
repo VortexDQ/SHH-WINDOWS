@@ -45,7 +45,7 @@ Also find your Windows username:
 whoami
 ```
 
-It will return something like `desktop-abc\ugur`.
+It will return something like `desktop-abc\user`.
 
 ## 4. Connect from your other PC
 
